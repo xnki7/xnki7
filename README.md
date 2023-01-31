@@ -15,10 +15,10 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Ankit </li>
-     <li> Frontend & Web-3 Developer </li>
-     <li> Currently Buidling cool Dapps</li>
-     <li> Tech writer </li>
-     <li> Self-Learner</li>
+     <li> Frontend & Web-3 Developer 👨‍💻 </li>
+     <li> Currently Buidling Cool Dapps 🧱</li>
+     <li> Tech writer ✍</li>
+     <li> Self-Learner 💪</li>
      <li> Hobbies:
         <ul> 
           <li> Gymnasium, gaming and talking to people</li>
