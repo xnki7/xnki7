@@ -1,5 +1,5 @@
 <!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
- <p align = "center" ><img align="center"  src="https://pbs.twimg.com/profile_banners/1511567762870530052/1675195997/600x200" /></p>
+ <p align = "center" ><img align="center"  src="[https://pbs.twimg.com/profile_banners/1511567762870530052/1675195997/600x200](https://media.licdn.com/dms/image/D4D16AQFQPjLVbzPNhA/profile-displaybackgroundimage-shrink_350_1400/0/1675198234613?e=1680739200&v=beta&t=lEhQLe0arHWoGKrjmaVJsor6ZBL-eyFQOza6fX5YBm8)" /></p>
 
 <table>
 <tr>
