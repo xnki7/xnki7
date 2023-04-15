@@ -1,3 +1,5 @@
+<p align = "center" ><img alt="Profile Banner" src="https://media.licdn.com/dms/image/D4D16AQH4d7K3D4QZNA/profile-displaybackgroundimage-shrink_350_1400/0/1675249319541?e=1686787200&v=beta&t=_eHgrU0cGF2IzL6vxCKnsHPcOLh3po-hWOfUG7JRs9k"/></p>
+
 # 💫 About Me:
 Wizard@LumosLabs 🧙‍♂️| Web3 Buidler 🚀| Solidity Smart Contract Developer ⧫| Frontend Developer 🖥| Java Programmer 👨‍💻
 ## 🌐 Socials:
