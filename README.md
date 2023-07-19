@@ -1,4 +1,4 @@
-<p align = "center" ><img alt="Profile Banner" src="https://media.licdn.com/dms/image/D4D16AQH4d7K3D4QZNA/profile-displaybackgroundimage-shrink_350_1400/0/1675249319541?e=1686787200&v=beta&t=_eHgrU0cGF2IzL6vxCKnsHPcOLh3po-hWOfUG7JRs9k"/></p>
+<p align = "center" ><img src="https://github.com/xnki7/xnki7/assets/92376931/064c7b3c-8fde-4bdf-b687-9563626bb91c"/></p>
 
 # 💫 About Me:
 Wizard@LumosLabs 🧙‍♂️| Web3 Buidler 🚀| Solidity Smart Contract Developer ⧫| Frontend Developer 🖥| Java Programmer 👨‍💻
@@ -18,10 +18,8 @@ Wizard@LumosLabs 🧙‍♂️| Web3 Buidler 🚀| Solidity Smart Contract Devel
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xnki7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xnki7&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!--GPRM made-->
+
